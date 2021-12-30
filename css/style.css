@@ -691,7 +691,7 @@ ul.portfolio-image li .image-bg {
 ul.portfolio-image li .desc{
   position: absolute;
   z-index: 1;
-  top: 45%;
+  top: 20%;
   left: 0;
   display: table-cell;
   right: 0;
@@ -942,7 +942,8 @@ ul.portfolio-image li .desc{
   width: 100%;
 }
 .bg-about {
-  background: url('../images/headshot.jpg');
+  background: url('https://avatars.githubusercontent.com/u/63416154?v=4');
+  /* background: url('../images/headshot.jpg'); */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
